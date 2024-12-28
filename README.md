@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bereket</h1>
 <h3 align="center">A passionate frontend developer from ethiopia</h3>
-
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Ftech-cartoon&psig=AOvVaw3TMH5cL0l35GpgBdrUKaZT&ust=1735513686877000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCNjNjKy4oDFQAAAAAdAAAAABAE" alt="">
 - 🔭 I’m currently working on **Student mangement software**
 
 - 🌱 I’m currently learning **Computer science**
