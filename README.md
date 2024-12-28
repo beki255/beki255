@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bereket</h1>
 <h3 align="center">A passionate frontend developer from ethiopia</h3>
-<img src="![Uploading 17354274722733989982671673403706.jpg…]()
+<img src="content://media/external/downloads/1000242611
 "alt="">
 - 🔭 I’m currently working on **Student mangement software**
 
