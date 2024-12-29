@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bereket</h1>
 <h3 align="center">A passionate full stuk developer from ethiopia</h3>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffree-backgrounds-photos%2Fanimated-technology-pictures&psig=AOvVaw1lMz49yK3q6ufOqGt8DfDl&ust=1735540786771000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICrkravzIoDFQAAAAAdAAAAABAJ" alt="">
 
 - 🌱 I’m currently learning **Computer science**
 
