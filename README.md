@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm bereket</h1>
+<h1 align="center">Hello every one 👋, I'm bereket</h1>
 <h3 align="center">A passionate full stack developer from ethiopia</h3>
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" width="850px" align="middel" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beki255&label=Profile%20views&color=0e75b6&style=flat" alt="beki255" /> </p>
