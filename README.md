@@ -1,6 +1,146 @@
 <h1 align="center">Hi 👋, I'm Bereket</h1>
 <h3 align="center">A passionate full stack developer from ethiopia</h3>
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" width="850px" align="right" alt="">
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+     
+<script src="https://cdn.jsdelivr.net/npm/three@0.145/build/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/three@0.145/examples/js/controls/OrbitControls.js"></script>
+
+    </head>
+    <body>
+        
+    </body>
+<script>
+//import * as THREE from 'three';
+//import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls';
+
+let cw=400
+
+let ch=700
+
+const scene=new THREE.Scene();
+
+const camera=new THREE.PerspectiveCamera(75,cw/ch,0.1,1000);
+
+camera.position.z=2
+
+const renderer=new THREE.WebGLRenderer();
+document.body.appendChild(renderer.domElement)
+
+renderer.setSize(cw,ch)
+
+renderer.setPixelRatio(devicePixelRatio)
+
+
+//const orbitcontrols=new THREE.OrbitControls(camera,renderer.domElement)
+
+//orbitcontrols.enableDamping=true
+
+
+//orbitcontrols.dampingFactor=0.01
+
+
+
+//allcomponents
+
+var vec1= new THREE.Vector3(6,6,8)
+var vec2= new THREE.Vector3(1,1,1)
+var vec3=vec1.clone().add(vec2) 
+//console.log(vec1.z)
+
+
+
+
+
+let geo=new THREE.TorusGeometry(2,.3,16,100) 
+
+
+
+let material=new  THREE.MeshStandardMaterial({color:0xfffff,
+
+wireframe:true
+})
+
+
+let m2=new THREE.MeshStandardMaterial({color:0xccff,
+flatShading:true,
+
+})
+
+
+let mesh=new THREE.Mesh(geo,material)
+
+let sp=new THREE.IcosahedronGeometry(.02,2)
+
+let spm=new THREE.Mesh(sp,m2)
+
+
+const light=new THREE.HemisphereLight(0xFF6347,0x00BFFF,1)
+
+let axes=new THREE.AxesHelper(200)
+//scene.add(axes)
+scene.add(mesh)
+scene.add(spm)
+scene.add(light)
+let t=0
+//scene.scale.set(5)
+function animate(){
+
+requestAnimationFrame(animate)
+
+renderer.render(scene,camera)
+
+//orbitcontrols.update()
+
+let rad=2
+
+let pos=new THREE.Vector3(rad*Math.cos(t),rad*Math.sin(t),0)
+let pos2=new THREE.Vector3(rad*Math.cos(t+0.1),rad*Math.sin(t+0.1),0)
+
+
+
+let axis = new THREE.Vector3(1, 1, 1); // Z-axis
+
+// Define the angle of rotation (90 degrees in radians)
+let angle = Math.PI/2; // 90 degrees = π/2 radians
+
+// Rotate the vector
+
+
+
+
+
+
+let n=pos2.clone().sub(pos).normalize()
+
+n.applyAxisAngle(axis, angle).normalize();
+
+
+camera.up.set(n.x,n.y,n.z)
+//camera.position.set(x,y,0); // Move the camera
+
+//scene.rotation.z=t
+//scene.rotation.x=Math.PI/2
+//scene.scale.set(1)
+spm.position.set(pos.x,pos.y,pos.z)
+
+
+camera.position.set(pos2.x,pos2.y,pos2.z)
+
+camera.lookAt(pos)
+//camera.lookAt(scene.position)
+
+
+t-=0.01
+
+camera.updateProjectionMatrix()
+
+}
+animate()
+</script>
+</html>
 
 - 🌱 I’m currently learning **Computer science**
 
