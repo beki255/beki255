@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bereket</h1>
 <h3 align="center">A passionate full stack developer from ethiopia</h3>
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" width="650px" align="right" alt="">
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" width="700px" align="right" alt="">
 
 - 🌱 I’m currently learning **Computer science**
 
