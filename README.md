@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bereket</h1>
 <h3 align="center">A passionate full stuk developer from ethiopia</h3>
-<img src="https://img.freepik.com/free-vector/cute-astronaut-working-laptop-cartoon-vector-icon-illustration-science-technology-icon-isolated_138676-4634.jpg" alt="">
+<img src="https://img.freepik.com/free-vector/cute-astronaut-working-laptop-cartoon-vector-icon-illustration-science-technology-icon-isolated_138676-4634.jpg" width="450px" align="right" alt="">
 
 - 🌱 I’m currently learning **Computer science**
 
