@@ -32,7 +32,7 @@
 
 ### 📫 Contact Me
 - 📧 Email: Bereket2553@gmail.com
-- 💼 LinkedIn: (Add your LinkedIn link here)
+- 💼 LinkedIn: (https://www.linkedin.com/in/bereket-sahlemariam-69a669362/)
 
 ---
 
