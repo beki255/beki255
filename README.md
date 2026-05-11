@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bereket Sahlemariam</h1>
 
 <h3 align="center">
-🚀 Full Stack Web Developer | PHP • MERN • PERN <br>
-🎓 Computer Science Student | Aspiring Software Engineer
+💻 Full Stack Developer | MERN • PERN • PHP <br>
+🚀 Computer Science Student | Software Engineering Enthusiast
 </h3>
 
 <p align="center">
@@ -13,48 +13,64 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 💻 Full Stack Web Developer (PHP & JavaScript Ecosystem)
-- ⚛ Experienced in MERN & PERN Stack
-- 🛠 Strong backend foundation with PHP & MySQL
-- 🗄 Skilled in MongoDB & PostgreSQL
-- 🚀 Building scalable, secure & modern web applications
-- 🎯 Goal: Become a professional Software Engineer
+- 🎓 Computer Science Student passionate about software development
+- 💻 Full Stack Developer specializing in modern web technologies
+- ⚛ Skilled in MERN & PERN Stack development
+- 🛠 Strong backend experience with PHP, Node.js, and databases
+- 🗄 Experienced with MySQL, MongoDB, and PostgreSQL
+- 🚀 Interested in scalable, secure, and high-performance applications
+- 🌱 Currently improving my Software Engineering & System Design skills
+- 🎯 Goal: Build impactful software solutions that solve real-world problems
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 🎨 Frontend
+## 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </p>
 
-### ⚙️ Backend
+## ⚙️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=php,nodejs,express,python,java" />
 </p>
 
-### 🗄️ Database
+## 🗄️ Database
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-- 🔹 Human Resource Management System (Python)
-- 🔹 Job Portal System (Java + JavaFX)
-- 🔹 Milk House Management System (Java + MySQL)
-- 🔹 Full Stack PHP & MySQL Web Applications
-- 🔹 MERN Stack Applications
-- 🔹 PERN Stack Applications
+## 🧰 Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+# 🚀 Featured Projects
+
+### 🔹 Human Resource Management System
+- Built using Python
+- Employee management and reporting features
+
+### 🔹 Job Portal System
+- Developed with Java & JavaFX
+- Job posting and application management system
+
+### 🔹 Milk House Management System
+- Java + MySQL based desktop application
+- Inventory and sales management features
+
+### 🔹 Full Stack Web Applications
+- PHP & MySQL dynamic applications
+- MERN and PERN stack projects
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=beki2553&show_icons=true&theme=tokyonight" height="170"/>
@@ -67,13 +83,15 @@
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 <p>
-  📧 Email: Bereket2553@gmail.com <br>
-  💼 LinkedIn: https://www.linkedin.com/in/bereket-sahlemariam-69a669362/
+  📧 Email: <b>Bereket2553@gmail.com</b> <br>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/bereket-sahlemariam-69a669362/">Bereket Sahlemariam</a>
 </p>
 
 ---
 
-<h3 align="center">⭐ Passionate about building modern, scalable, and impactful software solutions.</h3>
+<h3 align="center">
+⭐ Passionate about building scalable, modern, and impactful software solutions.
+</h3>
