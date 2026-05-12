@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bereket Sahlemariam</h1>
 
 <h3 align="center">
-💻 Full Stack Developer | MERN • PERN • PHP <br>
+💻 Full Stack Developer | MERN • PHP <br>
 🚀 Computer Science Student | Software Engineering Enthusiast
 </h3>
 
